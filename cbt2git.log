@@ -1,0 +1,9 @@
+2025-04-04 11:34:44.371776 - Received CBT.V508.FILE548.PDS from FILE548.XMI 
+2025-04-04 11:34:44.372559 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE548.PDS, moved to PDS/$$$#DATE
+2025-04-04 11:34:44.372726 - Found $$INDEX.txt (text/plain) in CBT.V508.FILE548.PDS, moved to PDS/$$INDEX
+2025-04-04 11:34:44.372866 - Found $ASMCL.jcl (text/plain) in CBT.V508.FILE548.PDS, moved to PDS/$ASMCL
+2025-04-04 11:34:44.372998 - Found @FILE548.txt (text/plain) in CBT.V508.FILE548.PDS, moved to PDS/@FILE548
+2025-04-04 11:34:44.373131 - Found RXSIQRY.txt (text/plain) in CBT.V508.FILE548.PDS, moved to PDS/RXSIQRY
+2025-04-04 11:34:44.373351 - Found RXSLEEP.txt (text/plain) in CBT.V508.FILE548.PDS, moved to PDS/RXSLEEP
+2025-04-04 11:34:44.373571 - Found RXV2DEV.txt (text/plain) in CBT.V508.FILE548.PDS, moved to PDS/RXV2DEV
+2025-04-04 11:34:44.373751 - Found RXWTO.txt (text/plain) in CBT.V508.FILE548.PDS, moved to PDS/RXWTO
